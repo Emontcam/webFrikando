@@ -1,8 +1,8 @@
 * {
     box-sizing: border-box;
     margin: 0%;
-font-family: 'Anton', sans-serif;
-font-family: 'Carter One', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Carter One', cursive;
 }
 
 /* HEADER */
@@ -36,7 +36,7 @@ header .titulo {
     background-color: #22150B;
     font-size: 45px;
     display: grid;
-    grid-template-columns: 15% 80%;
+    grid-template-columns: 10% 80%;
     margin-botton:5px;
 }
 

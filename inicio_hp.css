@@ -907,7 +907,7 @@ a:hover{
         box-shadow: inset 0px 8px 10px rgba(0, 0, 0, 0.263);
         text-align: end;
         padding-right: 1%;
-        height: 40px;
+        height: 54px;
         /* COLOCAR MENU */
         display: grid;
         grid-template-columns: repeat(7, 14%);
@@ -916,7 +916,7 @@ a:hover{
 
     nav .foro {
         background-color: #22150b79;
-        height: 41px;
+        height: 54px;
 
     }
 

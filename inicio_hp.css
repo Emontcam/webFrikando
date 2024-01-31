@@ -49,6 +49,7 @@ nav button:hover {
     display: grid;
     justify-items: center;
     align-items: center;
+    display: inline-flex;
 }
 
 /* img del botón de menú */
